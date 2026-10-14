@@ -7,4 +7,4 @@ AddDefaultCharset utf-8
 php_flag display_errors On
 php_flag display_startup_errors On
 php_value error_reporting 32767
-php_value error_log /home/temichboss/domains/temichboss.xsph.ru/php_errors.log
+php_value error_log /trofimqk.beget.tech/public_html/php_errors.log
